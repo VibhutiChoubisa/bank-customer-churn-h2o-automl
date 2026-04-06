@@ -1,11 +1,12 @@
 # bank-customer-churn-h2o-automl
 📌 Project Overview
-<img width="797" height="503" alt="image" src="https://github.com/user-attachments/assets/3103b08d-a541-408c-b244-3afe731ac9d1" />
 
 This project predicts whether a bank customer will exit (churn) or remain active using machine learning and deep learning techniques. It compares two approaches:
 
 -Artificial Neural Network (ANN) using TensorFlow/Keras
 -H2O AutoML for automated model selection and optimization
+
+<img width="797" height="503" alt="image" src="https://github.com/user-attachments/assets/3103b08d-a541-408c-b244-3afe731ac9d1" />
 
 The goal is to identify customers at risk of leaving so that the bank can take preventive actions.
 
@@ -39,9 +40,11 @@ Models included:
     - Random Forest
     - Deep Learning
 Stacked Ensembles
-🏆 Best Model: <img width="874" height="292" alt="image" src="https://github.com/user-attachments/assets/7acfbd20-0b6c-46dd-ab30-dd674e300827" />
+🏆 Best Model: 
 
-Stacked Ensemble (All Models)
+<img width="874" height="292" alt="image" src="https://github.com/user-attachments/assets/7acfbd20-0b6c-46dd-ab30-dd674e300827" />
+
+
 📊 Performance:
 Confusion Matrix analysis shows improved balance between precision and recall
 Best model selected using leaderboard ranking
